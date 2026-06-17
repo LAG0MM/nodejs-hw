@@ -10,15 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Idziamko/nodejs-hw.git"
+    "url": "git+https://github.com/LAG0MM/nodejs-hw.git"
   },
   "keywords": [],
-  "author": "Ivan Dziamko <dziamko02@gmail.com>",
+  "author": "Myroslav Hoiuk <muroslavgoyk12@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Idziamko/nodejs-hw/issues"
+    "url": "https://github.com/LAG0MM/nodejs-hw/issues"
   },
-  "homepage": "https://github.com/Idziamko/nodejs-hw#readme",
   "dependencies": {
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
