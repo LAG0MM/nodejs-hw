@@ -1,4 +1,4 @@
-import { Note } from "../models/note";
+import { Note } from "../models/note.js";
 import createHttpError from "http-errors";
 
 export const getAllNotes = async (req, res, next) => {
@@ -50,7 +50,7 @@ export const deleteNote = async (req, res, next) => {
 export const updateNote = async (req, res, next) => {
   try {
     const { noteId } = req.params;
-    const note = await Note.findOneAndUpdate(noteId, req.body, {
+    const note = await Note.findOneAndUpdate({ _id: noteId }, req.body, {
       returnDocument: 'after',
     });
 
