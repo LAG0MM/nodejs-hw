@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Team standup",
+    "content": "Discuss project milestones and blockers with the team.",
+    "tag": "Meeting"
+  },
+  {
+    "title": "Buy groceries",
+    "content": "Milk, eggs, bread, cheese, fruits.",
+    "tag": "Shopping"
+  },
+  {
+    "title": "Finish Express homework",
+    "content": "Implement CRUD operations for notes with MongoDB.",
+    "tag": "Work"
+  },
+  {
+    "title": "Read about Mongoose",
+    "content": "Study schemas, models, and query methods in Mongoose docs.",
+    "tag": "Ideas"
+  },
+  {
+    "title": "Morning run",
+    "content": "Run 5 km in the park before work.",
+    "tag": "Health"
+  },
+  {
+    "title": "Plan vacation",
+    "content": "Research flights and hotels for the summer trip.",
+    "tag": "Travel"
+  },
+  {
+    "title": "Budget review",
+    "content": "Check monthly expenses and update the spreadsheet.",
+    "tag": "Finance"
+  },
+  {
+    "title": "Call dentist",
+    "content": "Schedule an appointment for next week.",
+    "tag": "Important"
+  },
+  {
+    "title": "Weekend plans",
+    "content": "Hiking with friends on Saturday, movie night on Sunday.",
+    "tag": "Personal"
+  },
+  {
+    "title": "Clean the apartment",
+    "content": "Vacuum, mop floors, do laundry.",
+    "tag": "Todo"
+  }
+]
